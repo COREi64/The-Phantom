@@ -12,3 +12,5 @@ Once this project has been completed, and I've verified that my re-creation of t
 I've recently engaged the Commodore community to help figure out the functions available on this hardware.  Unfortunately, we do not have any documentation for this.  As such, I've enlisted help from community members on Lemon64 and we've been making great progress.  
 
 Github seemed to be the logical place to provide this project to the world.  As such, I will be adding information as I work through this project.
+
+![Phantom-AD-766x1024](https://user-images.githubusercontent.com/37495485/119240332-1918f600-bb0c-11eb-8e8e-d9f94958d59d.jpg)
