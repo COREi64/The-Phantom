@@ -1,4 +1,4 @@
-# Phantom
+# The Phantom
 Reproduction of the Phantom 1541 Drive Enhancement
 
 Back in about the 1986 timeframe, Tri-logic (UK) began marketing a board named "The Phantom".  I cannot speak to the commercial success of this product, today this board is one of the most rare Commodore "artifacts" known to still exist, especially in north america.  Being a product that resided within the host Commodore 64 and 1541 disk drive, it's reasonable to expect that as the years progressed knowledge that the product was installed in the system would have been forgotten.  Then, as the years march on, these machines are disposed of, given that those people have moved on with technology.
