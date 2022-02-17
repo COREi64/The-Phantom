@@ -16,6 +16,7 @@ I've recently engaged the Commodore community to help figure out the functions a
 Github seemed to be the logical place to provide this project to the world.  As such, I will be adding information as I work through this project.
 
 And if you fancy building this yourself, I've uploaded the board files to PCBWay's Shared Projects, so anyone can order their very own PCB's and build their own Phantom!  How exciting eh!  The Phantom is now within your reach.  Click on the links below to order the boards.
+
 <a href="https://www.pcbway.com/project/shareproject/Tri_Logic_Phantom_Main_1541_Drive_Board_4dde7b70.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" width=120 alt="PCB from PCBWay" /></a> <B>Click to order the Phantom Drive Board PCB</B>
 
 <a href="https://www.pcbway.com/project/shareproject/Tri_Logic_Phantom_Kernal_Board_199d37ed.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" width=120  alt="PCB from PCBWay" /></a><B>Click to order the Phantom Kernal Board PCB</B>
