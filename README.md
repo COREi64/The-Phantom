@@ -24,3 +24,5 @@ And if you fancy building this yourself, I've uploaded the board files to PCBWay
 <a href="https://www.pcbway.com/project/shareproject/Tri_Logic_Phantom_Userport_Board_2852a004.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" width=120  alt="PCB from PCBWay" /></a><B>Click to order the Phantom Userport Board PCB</B>
 
 ![Phantom-AD-766x1024](https://user-images.githubusercontent.com/37495485/119240332-1918f600-bb0c-11eb-8e8e-d9f94958d59d.jpg)
+
+NOTE: Effective March 5th, 2023, I have uploaded the design files as well as the gerbers of this project so that this wonderful product, that was almost lost to history, can be preserved and enjoyed well into the future.
