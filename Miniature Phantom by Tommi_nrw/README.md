@@ -5,4 +5,6 @@ The design has been tested by the project creator and found to function correctl
 
 Although there is no PCB at the moment for the parallel cable, I'm hoping that one will become available to make the deployment of this version easier, as it can be confusing as to how to wire the PCB without access to a convenient parallel cable PCB.
 
+It should be noted that Thomas Linke has donated this project to this original Phantom Github repository for the Commodore community to enjoy for those that come after us.  The effort spent on creating this terrific board is greatly appreciated and is a wonderful addition to this continually expanding repository of all things Phantom related.
+
 COREi64
